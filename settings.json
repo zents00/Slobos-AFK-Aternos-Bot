@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "Dummie_bob32.aternos.me",
     "port": 39742,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
